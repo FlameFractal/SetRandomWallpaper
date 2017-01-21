@@ -1,2 +1,12 @@
 # SetRandomWallpaper
-Set a random desktop wallpaper everyday (windows) 
+
+Goal
+
+- Set a random desktop wallpaper everyday
+- Python script + Windows Task Scheduler
+
+
+
+APIs used:
+
+- Unsplash.it
